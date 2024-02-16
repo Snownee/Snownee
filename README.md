@@ -2,6 +2,7 @@
 
 - I have been making [a lot of Minecraft mods](https://www.curseforge.com/members/snownee_/projects). The most popular one is [Jade](https://github.com/Snownee/Jade).
 - I like game design and UX design. Not a fan of technical stuff, like compilers and algorithms.
+- I am still learning English.
 - Fun fact: I hardly ever play Minecraft, and never beat the Ender Dragon in Vanilla.
 
 <!--
