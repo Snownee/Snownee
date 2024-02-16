@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi, I am Snownee 👋
+
+- I have been making [a lot of Minecraft mods](https://www.curseforge.com/members/snownee_/projects). The most popular one is [Jade](https://github.com/Snownee/Jade).
+- I like game design and UX design. Not a fan of technical stuff, like compilers and algorithms.
+- Fun fact: I hardly ever play Minecraft, and never beat the Ender Dragon in Vanilla.
 
 <!--
 **Snownee/Snownee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
